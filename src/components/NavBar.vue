@@ -6,8 +6,8 @@
         Home
       </v-btn>
 
-      <v-btn to="/projects" text color="#00BD9D">
-        Projects
+      <v-btn to="/blog" text color="#00BD9D">
+        Blog
       </v-btn>
 
       <v-btn to="/about" text color="#00BD9D">
